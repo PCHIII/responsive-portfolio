@@ -258,18 +258,12 @@ input[type=submit] {
     
     #main-container {
         padding:150px 20px;
-}
+    }
 
 .work {
     width: 100%
-}
-        /* .sidebar {
-            position: relative;
-        }  */
-
-    /* .main-section {
-        margin: 40px auto;
-    } */
+    }
+        
 
 }
 
